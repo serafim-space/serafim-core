@@ -1,5 +1,5 @@
 # Serafim
-## _Diễn đàn học tập dành cho học sinh_
+     _Diễn đàn học tập dành cho học sinh_
 
 Serafim là nền tảng hỏi bài tập, trao đổi bài tập từ lớp 10 đến lớp 12 và nhận lời giải hay từ các bạn học sinh, thầy cô nhanh chóng. Không những vậy Serafim còn có các cố vấn là những học sinh có chuyên môn hỗ trợ giải đáp thắc mắc bài tập. Ngoài ra người dùng có thể tham gia trả lời câu hỏi để nhận về danh hiệu câu trả lời hay nhất kèm theo dấu tích sẽ được lên hạng và giúp cho việc xét tính đúng sai trở nên dễ dàng hơn.
 ## Tính năng chính:
