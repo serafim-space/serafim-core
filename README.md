@@ -19,7 +19,8 @@ Serafim sử dụng một số dự án nguồn mở tiêu biểu để hoạt �
 
 - [Javascript](https://www.javascript.com/) - is the world's most popular programming language
 - [HTML/CSS](https://www.w3.org/)- orginal framework
-- [Lavarel](https://www.php.net/) - evented I/O for the backend
+- [PHP](https://www.php.net/) - evented I/O for backend services.
+- MongoDB, Firebase
 
 ## Tài liệu sử dụng
 (Đang phát triển)
@@ -27,6 +28,6 @@ Serafim sử dụng một số dự án nguồn mở tiêu biểu để hoạt �
 
 MIT
 
-**Giải thích nghĩa Serafim (used to Doritto): là một trong những ngữ từ của Pháp cho thấy được khả năng nghiêm túc, mọt sách và trưởng thành việc hình thành đời người nên việc chúng mình đưa ra sự thay đổi tên thể hiện năng lực phát triển sản phẩm cũng như là giai đoạn hình thành ban đầu.**
+**Giải thích nghĩa Serafim (used to Doritto): là một trong số cụm từ của Pháp cho thấy được khả năng nghiêm túc, mọt sách và trưởng thành việc hình thành đời người nên việc chúng mình đưa ra sự thay đổi tên thể hiện năng lực phát triển sản phẩm cũng như là giai đoạn hình thành ban đầu.**
 
-## Developed by [@Bân](mailto:BANBAN22432@GMAIL.COM), @X.Hoài, @BMin~
+### Developer Gia Bảo, David Bisky
