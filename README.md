@@ -7,7 +7,7 @@ Serafim là nền tảng hỏi bài tập, trao đổi bài tập từ lớp 10 
 - Thư viện bài giảng, tài liệu (đang phát triển)
 - Bộ khung story, ghi chú, blogs
 
- Bên cạnh đó, Serafim còn mở đăng ký "Cùng nhau tiến bộ" để cùng đi giúp đỡ các bạn khác, sau đó có cơ hội được lên chức Kiểm duyệt viên – chuyên xử lý những trường hợp báo cáo các nội dung mang tính chất vi phạm. Cuối cùng, tri ân cùng các bạn học sinh cũng như thầy cô tham gia ủng hộ Serafim bằng những lời cảm ơn chân thành trong quá trình phát triển cộng đồng.
+ Bên cạnh đó, Serafim còn mở đăng ký role "Cùng nhau tiến bộ" để cùng đi giúp đỡ các bạn khác, sau đó có cơ hội được lên chức Kiểm duyệt viên – chuyên xử lý những trường hợp báo cáo các nội dung mang tính chất vi phạm. Cuối cùng, tri ân cùng các bạn học sinh cũng như thầy cô tham gia ủng hộ Serafim bằng những lời cảm ơn chân thành trong quá trình phát triển cộng đồng.
 
 > "Học tập là hạt giống của kiến thức, 
 >  kiến thức là hạt giống của hạnh phúc"
