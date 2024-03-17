@@ -27,6 +27,6 @@ Serafim sử dụng một số dự án nguồn mở tiêu biểu để hoạt �
 
 MIT
 
-**Giải thích nghĩa Serafim (old name Doritto): là một trong những ngữ từ của Pháp cho thấy được khả năng nghiêm túc, một sách và trưởng thành trong hình thành đời người nên việc chúng mình đưa ra việc thay đổi tên thể hiện năng lực phát triển sản phẩm cũng như là giai đoạn hình thành ban đầu.**
+**Giải thích nghĩa Serafim (used to Doritto): là một trong những ngữ từ của Pháp cho thấy được khả năng nghiêm túc, mọt sách và trưởng thành việc hình thành đời người nên việc chúng mình đưa ra sự thay đổi tên thể hiện năng lực phát triển sản phẩm cũng như là giai đoạn hình thành ban đầu.**
 
 ## Developed by [@Bân](mailto:BANBAN22432@GMAIL.COM), @X.Hoài, @BMin~
